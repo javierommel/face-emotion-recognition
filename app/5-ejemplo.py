@@ -3,8 +3,8 @@ import cv2
 import base64
 
 # Claves de API proporcionadas por Face++
-api_key = 'pZBKshBc7oRDOlDCPPBRazK4IiZHAVNc'
-api_secret = 'wtxvZbxwCmsoYAsKBwBD_CbFk2DX0Bk1'
+api_key = 'KEY'
+api_secret = 'SECRET'
 
 # URL de la API de Face++ para la detección facial y análisis de emociones
 url = 'https://api-us.faceplusplus.com/facepp/v3/detect'
